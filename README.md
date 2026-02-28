@@ -5,6 +5,7 @@
 # 🖼️ Wallpaper Changer
 
 A modern desktop application for automatically downloading and changing Windows wallpapers by category.
+<img width="555" height="708" alt="Screenshot 2026-02-28 103840" src="https://github.com/user-attachments/assets/b25ded35-06bc-4a3f-b233-262823860934" />
 
 Built with:
 
